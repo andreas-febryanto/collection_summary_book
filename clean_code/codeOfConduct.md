@@ -1,0 +1,1 @@
+### Based on A CODE OF CONDUCT FOR PROFESSIONAL PROGRAMMERS by Robert C. Martin
